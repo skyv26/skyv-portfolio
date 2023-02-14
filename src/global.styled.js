@@ -18,7 +18,6 @@ const GlobalStyle = createGlobalStyle`
   body {
     width: 100%;
     min-height: 100%;
-    background-color: rgba(116, 68, 153, 0.85);
   }
 
   a {
